@@ -1,3 +1,7 @@
+////////////////////////////////////
+//      Video publicado em:       //
+//  https://youtu.be/XOer45-cvzQ  //
+////////////////////////////////////
 #include<stdlib.h>
 #include <stdio.h>
 #include<time.h>
